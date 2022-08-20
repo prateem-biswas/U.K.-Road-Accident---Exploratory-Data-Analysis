@@ -8,6 +8,8 @@
 
 Road accidents have become very common nowadays.
  With ever increasing number of vehicles on the roads the, the incidences of road accidents seem to be increasing day by day. But is it really true ? Have the modern safety standards along with new laws resulted in a decrease in the road accidents ? Where do most accidents occur ? What fraction of accidents are severe ? In this Exploratory Data Analysis project, we try to answer such questions by analysing the dataset to arrive at various conclusions. The dataset we are working on was gathered by the UK government from the traffic data between 2005 and 2016, recording over 1.5 million accidents in the process, making this one of the most comprehensive traffic data sets.
+ 
+The dataset is obtained from kaggle from the following [link](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset) 
 
 ![df](https://user-images.githubusercontent.com/105977171/185671537-f72dd8f9-050b-451d-971a-770a3b139156.png)
 
